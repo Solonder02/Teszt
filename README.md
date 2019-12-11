@@ -1,2 +1,2 @@
 # Teszt
-Have Fun tesztfeladat
+Have Fun tesztfeladat megoldás - Szüllő Soma
