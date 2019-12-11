@@ -11,10 +11,10 @@ class MyApp extends StatefulWidget {
 class _MyHomePageState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
-    return new NimaActor("assets/Big Green Guy.nma",
+    return new NimaActor("assets/Demon_Idle.nma",
         alignment:Alignment.center,
         fit:BoxFit.contain,
-        animation:"Walk"
+        animation:"idle"
     );
   }
 }
